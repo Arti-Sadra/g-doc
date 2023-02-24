@@ -85597,7 +85597,7 @@ gn_(){this.$ti.i("ig<1>").a(this.b)
 return!0},
 gq1(){return A.dZ.prototype.gq1.call(this)+"("+A.j(this.$ti.i("ig<1>").a(this.b).a)+")"}}
 A.axd.prototype={
-$1(a){var s,r="https://HOSTNAME/v1",q="https://",p="http://192.168.19.96:85/v1",o=new A.KZ(r)
+$1(a){var s,r="https://HOSTNAME/v1",q="https://",p="https://192.168.19.96:4435/v1",o=new A.KZ(r)
 o.d=new A.a2X(A.aQ(t.Gf))
 o.e=B.b.n7(B.b.n7(r,q,"wss://"),"http://","ws://")
 s=t.N
@@ -96342,4 +96342,3 @@ a(b.target)}for(var r=0;r<s.length;++r)s[r].addEventListener("load",onLoad,false
 var s=A.azi
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
-//# sourceMappingURL=main.dart.js.map
